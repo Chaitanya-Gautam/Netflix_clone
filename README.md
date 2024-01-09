@@ -32,7 +32,7 @@ This project is a reimagining of the Netflix landing page, complete with a sleek
 
 ## 🖼️ Preview
 
-![Netflix Landing Page](screenshot.png)
+![Netflix Landing Page]([screenshot.png](https://github.com/Chaitanya-Gautam/Netflix_clone/blob/main/netflix.png))
 
 ## Installation
 
